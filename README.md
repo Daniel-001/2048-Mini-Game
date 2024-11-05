@@ -1,4 +1,6 @@
 # 2048-Mini-Game
+![image](https://github.com/user-attachments/assets/94f5f884-7db0-47f9-b934-6cb041264855)
+
 ***基础***
 1. 游戏逻辑
 游戏在一个 4x4 的棋盘上进行，初始化时随机生成两个数字（2 或 4）。
